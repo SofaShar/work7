@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <title>Галерея-слайдер</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Галерея изображений</h1>
 
+      <div class="gallery-container">
+        <button class="nav-btn prev">&#10094;</button>
+        <button class="nav-btn next">&#10095;</button>
+
+        <div class="gallery"></div>
+      </div>
+
+      <div class="pager">
+        <div class="pager-dots"></div>
+        <div class="pager-text">
+          Страница <span id="current-page">1</span> из
+          <span id="total-pages">3</span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
