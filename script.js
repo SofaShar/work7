@@ -1,31 +1,31 @@
 document.addEventListener("DOMContentLoaded", function () {
   const images = [
     {
-      src: "8f2af499b2db9b884792da2181b4dc9e.jpg",
+      src: "img/8f2af499b2db9b884792da2181b4dc9e.jpg",
       caption: "Заснеженные вершины",
     },
     {
-      src: "6abc3851273048a3be4e141e77ba705e.jpg",
+      src: "img/6abc3851273048a3be4e141e77ba705e.jpg",
       caption: "Лесное дерево",
     },
     {
-      src: "8MZLo_KNSGc.jpg",
+      src: "img/8MZLo_KNSGc.jpg",
       caption: "Ночь над озером",
     },
     {
-      src: "440dee747828a2b75093e79d1a809195.jpg",
+      src: "img/440dee747828a2b75093e79d1a809195.jpg",
       caption: "Обед у океана",
     },
     {
-      src: "7903b8c218b2787fa309b5054e7e37cb.jpg",
+      src: "img/7903b8c218b2787fa309b5054e7e37cb.jpg",
       caption: "Дорога Волхвов",
     },
     {
-      src: "Dália.jpg",
+      src: "img/Dália.jpg",
       caption: "Цветы в вазе",
     },
     {
-      src: "-Xs5Atpzdwo.jpg",
+      src: "img/-Xs5Atpzdwo.jpg",
       caption: "Скалистый берег",
     },
   ];
@@ -166,3 +166,4 @@ document.addEventListener("DOMContentLoaded", function () {
   // Запускаем инициализацию
   initGallery();
 });
+
