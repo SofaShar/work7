@@ -1,36 +1,32 @@
 document.addEventListener("DOMContentLoaded", function () {
   const images = [
     {
-      src: "https://images.unsplash.com/photo-1501854140801-50d01698950b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      caption: "Горный пейзаж",
-    },
-    {
-      src: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      caption: "Лесная тропа",
-    },
-    {
-      src: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      caption: "Озеро в горах",
-    },
-    {
-      src: "https://images.unsplash.com/photo-1439066615861-d1af74d74000?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      caption: "Закат над океаном",
-    },
-    {
-      src: "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      caption: "Скалистый берег",
-    },
-    {
-      src: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      caption: "Зеленый лес",
-    },
-    {
-      src: "https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      src: "8f2af499b2db9b884792da2181b4dc9e.jpg",
       caption: "Заснеженные вершины",
     },
     {
-      src: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      caption: "Пустынный каньон",
+      src: "6abc3851273048a3be4e141e77ba705e.jpg",
+      caption: "Лесное дерево",
+    },
+    {
+      src: "8MZLo_KNSGc.jpg",
+      caption: "Ночь над озером",
+    },
+    {
+      src: "440dee747828a2b75093e79d1a809195.jpg",
+      caption: "Обед у океана",
+    },
+    {
+      src: "7903b8c218b2787fa309b5054e7e37cb.jpg",
+      caption: "Дорога Волхвов",
+    },
+    {
+      src: "Dália.jpg",
+      caption: "Цветы в вазе",
+    },
+    {
+      src: "-Xs5Atpzdwo.jpg",
+      caption: "Скалистый берег",
     },
   ];
 
